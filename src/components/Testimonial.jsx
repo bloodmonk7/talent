@@ -45,7 +45,7 @@ function Testimonial() {
               </Stack>
               <Stack sx={{ textAlign: "start", fontWeight: "bold" }}>
                 <Typography sx={{fontWeight: 'bold'}}>Sarah Thompson</Typography>
-                <Typography>Project Manager, Shopify</Typography>
+                <Typography sx={{color: '#475467'}}>Project Manager, Shopify</Typography>
               </Stack>
             </Stack>
             <Stack direction="row" spacing={2}>
